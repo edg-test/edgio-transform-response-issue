@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../edgio.config.js"],
+  "sourcesContent": ["module.exports = {\n  origins: [\n    {\n      name: 'next',\n      hosts: [\n        {\n          location: 'nextjs.org',\n        },\n      ],\n      override_host_header: 'nextjs.org',\n    },\n  ],\n  serverless: {\n    include: [\"functions/**/*\"]\n  }\n}\n"],
+  "mappings": ";AAAA,OAAO,UAAU;AAAA,EACf,SAAS;AAAA,IACP;AAAA,MACE,MAAM;AAAA,MACN,OAAO;AAAA,QACL;AAAA,UACE,UAAU;AAAA,QACZ;AAAA,MACF;AAAA,MACA,sBAAsB;AAAA,IACxB;AAAA,EACF;AAAA,EACA,YAAY;AAAA,IACV,SAAS,CAAC,gBAAgB;AAAA,EAC5B;AACF;",
+  "names": []
+}

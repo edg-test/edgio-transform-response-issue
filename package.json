@@ -1,0 +1,15 @@
+{
+  "name": "edgio-transform-response-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "edgio.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@edgio/cli": "7.0.24",
+    "@edgio/core": "7.0.24"
+  }
+}
